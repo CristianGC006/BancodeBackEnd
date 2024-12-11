@@ -1,4 +1,4 @@
-package Users;
+package Model;
 
 public class Creditos {
     private String tipoCredito;

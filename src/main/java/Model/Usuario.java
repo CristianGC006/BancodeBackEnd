@@ -1,4 +1,4 @@
-package Users;
+package Model;
 
 public class Usuario {
     private String nombre,email,nacionalidad;

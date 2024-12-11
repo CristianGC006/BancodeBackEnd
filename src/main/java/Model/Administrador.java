@@ -1,4 +1,4 @@
-package Users;
+package Model;
 
 public class Administrador extends Usuario {
     private String Area;
